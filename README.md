@@ -12,4 +12,14 @@ Alberto Rojas
 npm install
 php artisan serve
 
+crear el .env 
+
+ejecurtar los siguiente codigos 
+
+
+
+php artisan migrate
+php artisan key:generate
+php artisan jwt:secret
+
 npm run watch --> para ver los cambios front en hot
