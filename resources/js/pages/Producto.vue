@@ -10,6 +10,8 @@ import axios from 'axios'
 
 //import FetchUsers from "~/components/FetchUsers"
 export default {
+  layout: 'Admin_App',
+
   components: {
     //	FetchUsers
   },

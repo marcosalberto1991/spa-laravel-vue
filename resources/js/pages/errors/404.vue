@@ -14,6 +14,7 @@
 
 <script>
 export default {
+  layout: 'basic',
   name: 'NotFound'
 }
 </script>
